@@ -5,7 +5,6 @@ tags:
   - safeguarding
   - information-integrity
 date: 2026-07-29
-status: v1.0 — release candidate pending Daniel's final read
 version: "1.0"
 part_of: ARC V1 Corpus
 author: Daniel Thorson

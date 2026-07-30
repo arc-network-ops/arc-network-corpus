@@ -2,7 +2,6 @@
 title: "Recording in Service of Trust"
 subtitle: "Principles, taxonomy, and norms for recording and the handling of voice"
 version: "1.0"
-status: v1.0 — release candidate pending Daniel's final read
 created: 2026-05
 updated: 2026-07-29
 date: 2026-07-29

@@ -10,13 +10,9 @@ tags:
   - safeguarding
 created: 2026-05-02
 updated: 2026-07-29
-status: v1.0 — release candidate pending Daniel's final read
 version: "1.0"
 part_of: ARC V1 Corpus
 author: Daniel Thorson
-contributors:
-  - Joshua Swenson (shadow and belonging frame, v0.4)
-  - Aviva Shore
 audience: ARC members, prospective members, close collaborators
 ---
 
@@ -445,8 +441,6 @@ The work is to keep all of those layers alive, daily, for as long as the ARC exi
 - Wheal, Jamie. On the distinction between *culty cults* and *ethical cults*.
 - ARC Network — Design Specification v1.
 - The Needs & Response System (proposal).
-
-The shadow-and-belonging frame in this version was contributed by Joshua Swenson in conversation with the Source. Members are invited to bring further frames that sharpen the document's pointing.
 
 ---
 
