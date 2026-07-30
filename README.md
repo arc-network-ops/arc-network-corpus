@@ -45,8 +45,6 @@ Tech/            the technical surface
 
 ## Status conventions
 
-- **v1.0 — release candidate pending Daniel's final read**: content-complete against the specification; Daniel's read releases it.
-- **v1.0 — pending Daniel's release** (the two Agreements): covenants; nothing in a signed instrument is final until Daniel signs off.
 - **proposal — direction, not commitment**: the Coordination documents besides the Weekly Weave. They paint the shape of what might be built. The Weekly Weave is the only live technical system.
 - **snapshot / pointer**: the two Logos Center nodes and the Logos pointer. The public Logos Text at publish.obsidian.md/logos-text always governs; snapshots refresh from it.
 
