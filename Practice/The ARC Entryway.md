@@ -7,7 +7,6 @@ tags:
   - entryway
   - phase-one
 created: 2026-07-29
-status: v1.0 — release candidate pending Daniel's final read
 version: "1.0"
 author: Daniel Thorson
 audience: The Source, close collaborators, John Ooi (operational implications)
