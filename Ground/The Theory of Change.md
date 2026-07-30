@@ -1,7 +1,6 @@
 ---
 title: The Theory of Change
 version: "1.0"
-status: v1.0 — release candidate pending Daniel's final read
 date: 2026-07-29
 part_of: ARC V1 Corpus
 author: Daniel Thorson
