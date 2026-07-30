@@ -1,7 +1,6 @@
 ---
 title: "ARC Source Agreement"
 version: "1.0"
-status: v1.0 — pending Daniel's release signature-level read
 created: 2026-05-02
 updated: 2026-07-29
 author: Daniel Thorson
