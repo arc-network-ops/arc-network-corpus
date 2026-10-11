@@ -1,247 +1,76 @@
----
-title: "The Foundations Curriculum"
-tags:
-  - arc-network
-  - foundations
-  - dyadic-unfolding
-  - curriculum
-date: 2026-07-29
-version: "1.0"
-part_of: ARC V1 Corpus
-author: Daniel Thorson
----
+# ARC Foundations Curriculum Overview
 
-# The Foundations Curriculum
+*Drawn from the Cohort 2 session transcripts (July 23 to September 10, 2026), the published Cohort 2 readings, and the Cohort 1 Foundations Curriculum. Gaps are marked.*
 
-## What this training is
+## What Foundations is
 
-Foundations Training is the ARC's eight-week training in **dyadic unfolding** — an art of being together, in silence and in speech, that creates the conditions for the natural intelligence of experience to unfold, integrate, and heal. (The first cohort ran as "the Unfolding Circle" in spring 2026; the curriculum below is that cohort's arc, carried forward.) The core orientation is captured in a phrase Daniel returned to when stripping the curriculum back to first principles: **we love what is true together.**
+Foundations is the ARC Network's eight-week training in dyadic unfolding. The heart of it is simple: learning how to create a space in which the truth of our experience can bring us into deeper intimacy with ourselves and each other. That's a skill we can practice. It's also a natural capacity we already have. Mostly we're learning to recognize it and create the conditions for it.
 
-Everything else — concepts, frames, techniques — is in service of that.
+The practice has two roles. The space taker takes the space with their truth, whatever that is. The space holder rests as grounded, attuned, loving presence and beholds whatever arises: seeing it, feeling it, letting it matter. Then they switch. Nothing needs to happen, and everything is welcome.
 
-The training is premised on a wager: that most of what passes for transformational work in modern culture has become methodologically over-equipped and context-poor. If we can create the right kind of _shared context_ — sacred, non-instrumentalizing, trusting of a deeper intelligence — then unfolding becomes almost trivially easy. Presence is what unfolds. Presence is what integrates. Presence is what heals. The work is mostly about removing our habitual obstructions to it.
+The basic form stays the same for all eight weeks. Each week adds one layer.
 
-## What this practice is not
+## The rhythm
 
-Dyadic unfolding is a peer contemplative-relational practice. It is not therapy, coaching, crisis response, or a substitute for professional care. The curriculum works with material adjacent to therapeutic territory — trauma, parts, attachment — as ways of looking within a peer practice, not as clinical intervention. Teachers hold this boundary explicitly, and participants carrying acute distress are supported in finding professional care alongside, or instead of, the practice.
+- **A weekly group session, 90 minutes, on Zoom.** A song to arrive, a short grounding practice, check-ins in small groups, a longer guided practice, a short teaching, a practice dyad in breakout rooms (about 25 minutes), and a group reflection. At the end you're paired with a partner for the week.
+- **A weekly partner dyad, about an hour.** You meet your partner once between sessions: roughly 20 to 25 minutes each as space taker, then about 10 minutes to come back into ordinary conversation and reflect together. Meet more often if you both want to. Your partner changes each week, so over the eight weeks you practice with most of the group.
+- **Session 8 has no dyad.** The eight weeks are up, and we close together.
 
----
+Two agreements hold the whole thing: what's shared in the group and in dyads stays there, and we don't record our dyads.
 
-## Container and rhythm
+## Week 1 · Seeing: The Space That Lets Life Unfold
 
-**Weekly structure** Each Thursday group session follows roughly the same shape:
+Life is always unfolding, like a flower blooming fast before your eyes, and it gets stuck when we fight it or exile parts of it. The space holder rests as grounded, loving presence and beholds the other person in their intrinsic value, the way a good parent looks at a child: *Wow. Look at that.*
 
-1. **Arrival music** — a song that establishes the tone and sacredness of the space.
-2. **Guided attunement practice** (~10 min) — dropping out of the head and into the heart; feeling the ground; letting oneself be held; then opening to the field of others.
-3. **Reflection on the prior week's practice** — open sharing of what arose in the paired dyadic work.
-4. **New teaching / concept / layer of practice** — a single, light conceptual addition.
-5. **In-session dyadic practice** (~20–25 min) — breakout pairs to try the new layer live.
-6. **Closing reflection** — metacognitive group reflection on what happened.
-7. **Pair assignment for the week** — each participant is matched with a new partner for a 75–90 minute dyadic session between now and the next group meeting.
+**Practice:** Silent holding. The holder stays completely quiet, eyes open, with no "mm-hmm" or "yes," spoken or signaled, and simply beholds. The taker can use the space however they like. It often helps to drop beneath the story into what's moving in the body. The silence shows us how much loving presence can do on its own.
 
-**Between sessions** participants meet in pairs for a structured dyadic unfolding session, rotating partners week to week so that by the end everyone has practiced with nearly everyone.
+## Week 2 · Feeling: When the Heart Feels What It Sees
 
-**Cohort size**: approximately 12 participants — small enough for full mutual contact over the arc.
+Attunement adds feeling to seeing. The holder lets the other person register in their own heart and body, and the taker gets to notice what it's like to feel felt: *I feel you, and you feel me feeling you.* That loop is how a baby's nervous system gets organized, and it keeps working on us as adults. Ground first, so you can be affected without merging or taking over. If someone doesn't want to be felt, that's usually a request for more distance. Back off and find a distance that feels safe.
 
----
+**Practice:** Still silent. The holder rests as stable ground, then lets the taker's experience in. The taker notices what it's like to be felt, including any wish to close or pull back. Either person can slow down, pause, or ask for distance.
 
-## Core practice architecture
+## Week 3 · Valuing: Letting What Is Here Matter
 
-The container has two roles that rotate within each dyad:
+Valuing isn't liking. Grief, pain, and rupture can matter enormously without being pleasant. Valuing is a capacity we all have and can refine. When something is allowed to matter, attention settles and deepens, and tenderness, respect, and care tend to follow. Don't force it. If valuing isn't available, stay with seeing and feeling, and let that matter too.
 
-- **Space holder** — rests in stable, loving, attuned presence. Witnesses and resonates with the other's experience. Over the course, graduates from silent holding into supportive speech.
-- **Space taker** (in the first cohort's classroom shorthand, "space filler") — offers the truth of their present experience. Speaks from and to the body rather than from the head.
+**Practice:** The holder is still silent while holding, and a reflection is added afterward. In the hour-long dyad: about 20 minutes each, then about 10 minutes where the holder goes first, sharing what they saw, what they felt, and what mattered to them. Offer it as your experience, not a verdict, and let the taker say how it lands.
 
-Two governing principles sit behind these roles:
+## Week 4 · Shared Purpose: Loving What Is True Together
 
-- **Attuned loving presence is the catalyst for unfolding.** In the early weeks the practice is held in silence — not because silence is the practice, but because silence is where attunement is first learned without the interference of our own words. We move much too quickly to speech. Most of what interrupts good dyadic unfolding is our own words.
-- **The move is always just to keep revealing what is true.** Not to help, rescue, fix, improve, or smuggle in a frame of how reality should be. Trust the truth. Trust the deeper intelligence.
+The fourth element of intimacy is shared purpose, and ours is plain: we love what is true together. This is also the week speech opens. When the holder speaks, it serves that purpose, helping the taker see their experience more clearly, feel it more deeply, and value it more fully. We also talked about how intimacy creates obligation, how intimacy doesn't mean disclosing everything, and how rupture and repair is part of the way intimacy grows.
 
-## Nothing has to happen
+**Practice:** Holders may now speak, lightly. A few forms to try: close reflection in the taker's own words, a brief word about your impact ("I notice I feel moved"), and simple clean questions like "What's unfolding now?", "What's it like now?", "And then what happens?", "Where are you feeling that in your body?" Most of the holding is still silence. Use the questions if they help. You don't have to.
 
-The limits of the practice are part of the practice, and they are taught from the first session.
+## Week 5 · Words as Fingertips: The Art of Taking Space
 
-Nothing has to happen. The practice does not require insight, disclosure, healing, or resolution. Whatever is actually present is welcome, including confusion, closure, silence, delight, reluctance, and the wish not to practice. Either person may slow down, change direction, decline an invitation, or stop. Loving what is true includes loving limits.
+This week turns to the space taker. Reality is always more than words can say, so we use words like fingertips, touching and feeling our way into experience, rather than boxes that pin it down. There are three ways to speak: seeing-saying (what's here), feeling-saying (saying what you feel and feeling what you say), and valuing-saying (what matters in it). Each time, we reach a little past what we already know and see what unfolds.
 
-The practice is also not organized only around suffering. Joy, play, laughter, beauty, and the simple pleasure of another person's company are forms of truth becoming available in relationship.
+**Practice:** As taker, lean into this way of speaking. Notice what's here, say something close to it, feel what the saying does, and let that shape what comes next. Both people are adventuring into reality together. Ask for what you need at the start, and leave room at the end for feedback on how it went.
 
----
+## Week 6 · Need: When Need Is No Longer Alone
 
-## Session-by-session curriculum
+We looked at need through an Adult-Child frame. The Adult is stable, loving awareness. The Child is our vulnerable, living aliveness: the nervous system, the feeling body. We're continuous with babies. Where needs went unmet, we built strategies to get by, like proving, pleasing, controlling, or withdrawing. Our culture treats need as shameful. Here we treat it as sacred. When a need is admitted and held with presence, a response tends to emerge, sometimes from within, sometimes from another person, sometimes from life itself.
 
-The course layers one new element onto the practice each week. Earlier layers are not replaced; they are the soil in which the later layers land.
+**Practice:** In the dyad, start with something workable, such as a pattern of managing, pleasing, or avoiding, and let it be seen, felt, and valued before asking it to change. Holders follow rather than dig. Between sessions, take the inquiry into daily life: What do I need? What does this part of me need? What do babies need? See if you can love each other this way without being obligated to take care of each other.
 
-### Session 1 — Groundwork: Value Realism and Ways of Looking
+## Week 7 · Rupture and Repair
 
-The opening session establishes the container, introduces the participants to one another, and lays down the two conceptual pillars that frame the entire arc of the training.
+The group asked for this one. Rupture and repair shows up everywhere: between partners, inside ourselves, across a culture. I shared the Jewish teaching of tikkun, that creation began with a shattering and our work is to gather the pieces into a greater wholeness, along with a recent rupture and repair from my own marriage. Repair goes better when each person takes responsibility for their own mind, takes space when both are triggered, assumes good faith, and shares a commitment to love what's true rather than to win. Seen this way, repair is what we've been doing all along.
 
-**Value Realism (Value-ception).** The course begins with a proposition that sets it apart from most contemplative trainings: goodness, truth, and beauty are not subjective preferences projected onto a neutral world — they are _real features of reality_ that we are learning to perceive. Just as the eye must be trained to see color and the ear to hear harmony, there is an "eye of value" — a faculty of perception that can be opened, clarified, and deepened. Foundations is, at its root, a training in the refinement of this faculty.
+**Practice:** This session ran mostly as a whole-group conversation, after short triads where each person took the space for about four minutes. *Gap: the transcript doesn't record an instruction for that week's partner dyad, and there's no published reading for Week 7.*
 
-This reframe matters because it shifts the entire orientation of practice. We are not constructing meaning; we are learning to _receive_ it. We are not generating love; we are clearing the obstructions to its perception. The course is not self-improvement — it is perceptual development. And the "object" of this perception is the real goodness, truth, and beauty that is always already present in experience, in the other, and in the space between.
+## Week 8 · Integration: Letting What Is Precious Change Our Lives
 
-**Ways of Looking.** If value is real and perception is what needs developing, then the central question becomes: _how are we looking?_ The concept of "ways of looking" names the insight that how we relate to or participate with experience fundamentally shapes what we can perceive. Some ways of looking contract and flatten; others open and deepen. Foundations is organized as a progressive sequence of ways of looking — each one opening a new dimension of the value that is already present in the dyadic encounter.
+When we create spaces where what's true can be seen, felt, and valued, we find out what's really precious. Integration is changing our lives in accord with that. This often shows a painful gap between how we live and what we love. Start from your own intrinsic value: a mistake is something you did, not who you are. From there, the pain of the gap becomes intelligence, and the people closest to you belong in the process.
 
-A way of looking is not a technique applied from the outside. It is an orientation of the whole being — a posture of attention, heart, and body that invites certain dimensions of reality into view. Throughout the course, each session will introduce or deepen a particular way of looking, and the cumulative effect is a widening and clarification of the eye of value.
+**Practice:** No partner dyad this week. In the session we reflect on whether the way we use our time, energy, attention, and resources matches what we've found most precious, and what support we'd need. Then a closing circle where each person takes the space for two or three minutes and is seen, felt, and valued by the whole group. Two weeks later there's an optional gathering about the ARC Network, where people can keep practicing in weekly dyads.
 
-**Loving Presence — the first way of looking.** The foundational way of looking that the first week of practice is organized around is _Loving Presence_: resting back into the spacious awareness that you already are, and from that ground, seeing the other's unfathomable intrinsic value. The quality is something like how one sees a child — with total trust in their spontaneously emerging aliveness, without agenda, without the need to fix or improve. You are not doing anything to the other person. You are seeing what is already true about them, and your seeing becomes the condition in which they can begin to see it too.
+## Notes and gaps
 
-For the space holder, this means settling into ground — stable, warm, open — and letting your gaze and attention communicate a simple, unwavering message: _you are safe here, and what you are is beautiful._
-
-For the space taker, Loving Presence means offering the truth of present experience from within a felt sense that one is already held — that the space is trustworthy, and nothing that arises needs to be filtered or managed.
-
-**First week's dyadic practice:** silent Loving Presence. Two people sitting together, one holding space, one taking space, with nothing added. The only instruction is the way of looking itself. The silence carries the attunement; let it do the work.
-
-### Session 2 — The Art of Attunement
-
-Building on the ground of Loving Presence, Session 2 introduces a deepening of the way of looking: from presence _to_ the other toward presence _with_ the other. The heart is not a detached witness but an _organ of resonance._
-
-Space holders are invited to lean toward **engaged attunement** — feeling the other's nervous system, feeling them feeling you. This feedback loop ("I feel you feeling me") is named as the essence of attunement and, developmentally, as **how a person is actually created** — the iterative resonance between child and caregiver that constructs an ordered interior.
-
-In the language of the course's architecture: attunement is the way of looking in which the eye of value is not only directed toward the other but begins to _participate_ in the other's felt experience. This is where the perception of value moves from something seen at a distance to something lived and shared — the beginning of the "mutuality" that later sessions will name more precisely.
-
-For the space taker, a distinction among **three ways of using speech** is introduced:
-
-1. From the head — cached, disembodied, propositional.
-2. Report from the body — go inward, check, return, present.
-3. **Feeling-saying** — speak directly from and to the body, saying what you are feeling and feeling what you are saying. Words as palpation of not-yet-articulated experience.
-
-(Feeling-saying is drawn from Aletheia Unfolding via Eugene Gendlin's Focusing.)
-
-The dyadic practice for the week remains **silent** — the teaching is a deepening of the attunement the silence carries, not yet an addition of words by the space holder. Participants are invited to explore how attunement changes what they perceive in the other — how the eye of value opens differently when one is resonating rather than merely observing.
-
-### Session 3 — Discernment
-
-The space holder is given permission to speak — and with it, the first discipline around speech: **discernment of source.**
-
-Before any word leaves your mouth as space holder, ask: _where is this coming from?_
-
-- From **the living relationship** — loving awareness, presence, what the moment is actually asking of you? → **speak it.**
-- From **agenda, discomfort, or the wish to rescue the other from their experience** (usually a reflection of your own discomfort)? → **stay silent.** An unfolding will happen anyway.
-
-Acknowledged as contrived: in reality, motivation is almost always mixed. The practice is not to achieve purity but to build the muscle of noticing — every attempt will surface trailheads for one's own further practice.
-
-In the context of the course's arc: discernment is itself a way of looking — an inward-facing attunement to the quality and origin of one's own impulses. It asks the space holder to apply the same eye of value to their own interior movements that they have been practicing toward the other.
-
-### Session 4 — Trust
-
-In the first cohort, Daniel was recovering from illness and arrived without prepared material — and used this to strip the course back to its root. The "teaching" is a reaffirmation of what the whole thing is actually about:
-
-- **We love what is true together.** Truth is a living love affair; it escapes every container we try to put it in.
-- The work is **faith** — trusting the deeper intelligence that is already organizing experience, even (and especially) when neither person can see what is happening.
-- **Rehabbing a mode of perception** that can feel truth and beauty as real — and a space we can trust-fall into, again and again, until we see it, and see it, and see it.
-- Conceptual frameworks, when grasped at out of confused compassion, can actually obstruct the intelligence they are trying to point to. Hold them lightly.
-
-In light of the course's foundational architecture: this session is a reminder that Value Realism is not merely a concept to be understood but a living wager to be inhabited. The ways of looking are not techniques that guarantee results — they are invitations that require trust, a willingness to not-know, and a faith that the real is more responsive than we tend to believe.
-
-### Session 5 — The Intimacy Equation
-
-Two additions to the practice this week.
-
-**Working with projections.** In a deepening group field, participants will begin to project onto one another (parent, sibling, past relationships). This is a feature, not a bug. Three ways to practice:
-
-1. Notice it and name it internally.
-2. Acknowledge it with your partner and consciously set it aside.
-3. With **explicit consent**, lean into it — let the other person become "dojo equipment" and unfold the relationship as if they were the projected figure. Then, critically, _release them_ at the end.
-
-**The Intimacy Equation** (from CosmoErotic Humanism — Zak Stein and Marc Gafni). Not a mathematical equation but a set of conditions whose presence intensifies intimacy.
-
-> **Intimacy = shared identity in the context of relative otherness.**
-
-The four _mutualities_ that constitute it:
-
-- **Mutuality of recognition** — I see you; you see me seeing you.
-- **Mutuality of feeling (pathos)** — I feel you; you feel me feeling you.
-- **Mutuality of value** — we are oriented to a shared sense of what is good, true, beautiful.
-- **Mutuality of purpose** — we are consciously oriented in the same direction (here: we love what is true together).
-
-Crucially, the equation is **domain-independent.** It applies between two people, within a group field, and _intrapsychically_ — between the parts of one's own interior. A part "in exile" is a part where intimacy has broken down. The same four mutualities are what invite it home.
-
-In the language of ways of looking: the Intimacy Equation describes the perceptual conditions under which two people can see value _together_ — not merely side by side. Mutuality of value, in particular, names the shared orientation of the eye of value that the course has been building since Session 1.
-
-### Session 6 — Open Conversation
-
-No new conceptual content. The session itself is the practice — an open group dialogue conducted with the same discipline the dyads have been cultivating: attunement, feeling-saying, discernment, mutuality. The teaching is that what has been learned in pairs can be brought into plural, many-to-many space.
-
-Framed explicitly as an exercise in **mutuality of purpose**: what would make this a _good conversation_ — one that serves our shared purpose of non-instrumentalizing encounter — and how do we each bring our unique and necessary position into it?
-
-### Session 7 — The Adult-Child Framework
-
-The integrative meta-framework of the course. A way of looking that ties together everything that came before.
-
-**Two dimensions of the interior:**
-
-- **The adult.** True nature. Open ground. Loving awareness. Qualities: stable, spacious, sensitive, tender. Presence. _The catalyst for all unfolding._
-- **The child.** The nervous system, the emotional system, the attachment system. Alive, dynamic, expressive, vulnerable, helplessly sensitive. _This body._
-
-**Trauma** in this model is a breakdown in the relationship between the adult and the child — a failure of intimacy, a failure of love. The child needed love that was not present; in its absence it braced, contorted, compensated. The resulting armor _is_ what most traditions would call suffering.
-
-**The core move** — the thing the whole course has actually been training — is a **reciprocal opening**:
-
-1. Find the ground of the adult.
-2. Orient to the truth of the child. Admit it. Offer it.
-3. The child's vulnerable offering summons the adult's clarity and love.
-4. The adult's received love allows the child to trust more deeply.
-5. Deeper trust permits the offering of deeper truths, which summon deeper clarity, and on.
-
-**"We live in a responsive cosmos."** Reality is intrinsically responsive — but _the need must be admitted_ for the response to arrive. Protecting the interior from the truth of its need forecloses the very conditions of its healing.
-
-**Mapping back onto the dyadic form:** the space holder is the adult (stable, attuned, loving ground); the space taker is the child (vulnerable, living admission of what is moving). Of course each contains both.
-
-**Mapping back onto the course's arc:** the Adult-Child framework reveals what the ways of looking have been cultivating all along. Loving Presence (Session 1) is the adult's gaze. Attunement (Session 2) is the adult feeling the child's experience. Discernment (Session 3) is the adult's capacity to distinguish between what serves the child and what serves the adult's own discomfort. Trust (Session 4) is the faith that the responsive cosmos will answer the child's admitted need. The Intimacy Equation (Session 5) names the mutualities that heal the rupture between adult and child. And the eye of value — the faculty the course began by naming — is nothing other than the adult's capacity to perceive goodness, truth, and beauty as real, even in the midst of the child's pain.
-
-Related clarifications that emerged in discussion:
-
-- **Self-like parts** (from IFS): parts that _imitate_ the adult. The child can sense the difference; this is often why a seemingly "present" facilitator still feels unsafe.
-- **Internal parentification**: the child-part being pressed into an adult role it cannot actually occupy.
-- **All parts are children.** Even the apparent "adult parts," on closer inspection, turn out to be children in long coats. This reframe shifts the interior tone from judgment to compassion.
-
-### Session 8 — Closing and Next Steps _(final session)_
-
-The closing session includes one final conceptual piece and a presentation on what is available next for those who wish to continue — framed as a **next step**, not an ending, of the journey together. No dyads at the end of this session.
-
----
-
-## Practice vocabulary introduced across the arc
-
-A shorthand glossary of terms the cohort learns to share:
-
-- **We love what is true together** — the essence of the practice; everything else serves it.
-- **Value Realism (Value-ception)** — the understanding that goodness, truth, and beauty are real features of reality that we are learning to perceive, not subjective preferences we project.
-- **The eye of value** — the faculty of perception that can be opened, clarified, and deepened through practice — the organ by which we perceive goodness, truth, and beauty.
-- **Ways of looking** — orientations of attention, heart, and body that shape what dimensions of reality we can perceive; the organizing principle of the course's progressive arc.
-- **Loving Presence** — the foundational way of looking: resting into spacious awareness and seeing the other's unfathomable intrinsic value.
-- **Unfolding** — the natural movement of experience when it is met with loving presence.
-- **Shared context** — the pre-conceptual ground that makes unfolding possible without technique-heavy scaffolding.
-- **Attuned loving presence** — the catalyst for unfolding; in the early weeks, carried in silence.
-- **Attunement** — feeling the other and being felt feeling them; the way of looking in which presence becomes participatory.
-- **Feeling-saying** — speaking from and to the body rather than reporting from the head.
-- **Discernment** — tracking the source of the impulse to speak; the inward-facing application of the eye of value.
-- **Holding / taking space** — the two rotating roles of the dyad.
-- **The Intimacy Equation** — the four mutualities (recognition, feeling, value, purpose).
-- **Adult / Child** — the two dimensions of the interior whose reunion is the aim of practice.
-- **Responsive cosmos** — the metaphysical wager that reality answers admitted need.
-
----
-
-## Lineages and sources referenced
-
-The course is eclectic but not improvisational — it draws threads from:
-
-- **Aletheia Unfolding** (Steve March) — via Eugene Gendlin's Focusing — for feeling-saying and the general unfolding posture.
-- **CosmoErotic Humanism** (Zak Stein, Marc Gafni, David J. Temple) — for the Intimacy Equation and the orientation to sacred/non-instrumentalizing space.
-- **Planetary Dharma** (John Churchill) — for the developmental arc of contemplative maturation and the orientation of practice toward planetary culture.
-- **Contemplative / Buddhist traditions** — for the grounding in presence and loving awareness; Dogen's definition of awakening as _intimacy with all things._ Rob Burbea's work on ways of looking as a framework for understanding perception and fabrication.
-- **Value Realism** (philosophical lineage) — the proposition that values are objective features of reality, drawn from Platonic, phenomenological, and participatory traditions.
-- **Attachment theory** (implicit throughout) — the feedback loop between adult and child as constitutive of the self.
-- **Internal Family Systems** — referenced in the discussion of parts, self-like parts, and parentification.
-- **Christian tradition** — surfaced in discussions of trust, faith, and the redemption arc of fracture and reunion.
-
----
-
-## Design intent
-
-Foundations is not primarily a skills course. It is an attempt to build a small, trust-dense container in which participants can _open and clarify the eye of value_ — the mode of perception that trusts goodness, truth, and beauty as real, and that can be deeply led by the love of them for their own sake. The progressive sequence of ways of looking is designed to refine this faculty week by week: from Loving Presence through attunement, discernment, trust, and mutuality, until the participant can carry that perception into the world — into airports, family dinners, client rooms, and civic space.
-
-The wager is that contemplative-relational practice of this kind, at Dunbar-scale, may be among the more load-bearing responses available to us in the present cultural moment.
-
-The stance toward the curriculum itself is held lightly: "we're making this up together." Concepts are useful and concepts obstruct; the art is knowing when to reach for a frame and when to drop it and be with the person in front of you.
+- **Sources.** Cohort 2 transcripts for Sessions 1 to 8 (Session 4 was recorded in two parts). The published Cohort 2 readings exist for Weeks 1 to 6 and 8. Some practice details for Weeks 4 to 6 come from those readings, where the transcripts only say "go into your dyads."
+- **Shape of the arc.** Weeks 1 to 3 are the elements of intimacy as Cohort 3 frames them: Seeing, Feeling, Valuing. Week 4 completes them with shared purpose. In the Cohort 1 curriculum the same four appear as the mutualities of the Intimacy Equation, in Session 5.
+- **How Cohort 2 differs from Cohort 1.** Cohort 1 ran Groundwork, Attunement, Discernment, Trust, Intimacy Equation, Open Conversation, Adult-Child, and Closing. Cohort 2 moved feeling-saying from Week 2 to Week 5, put the Adult-Child frame inside the week on need, and added valuing, rupture and repair, and integration. Discernment ("where is that coming from in our systems?") came up in passing in Week 1 but didn't get its own session.
+- **Responsive weeks.** Midway through Week 4, I said the formal curriculum was complete and the remaining weeks would follow what the group brought. Need was planned. Rupture and repair, and integration, came from requests.
+- **Dyad timing varied.** Week 1 suggested 23 to 25 minutes each plus 10 minutes of reflection. Week 3 suggested 20 minutes each plus 10. Later weeks don't restate it.
+- **Open questions the cohort raised:** how to teach curious inquiry beyond clean language, how loving what's true differs from picking at the same wound, and how repair works in families and larger groups.
