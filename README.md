@@ -10,6 +10,7 @@ Assembled 2026-07-29 from the working corpus, under the decisions recorded in `R
 ARC Network — Design Specification v1.md   the threshold document; start here
 Ground/          why the work exists and what it stands on
   ARC Intimate Intelligence          (a way of looking at the network as a single body)
+  The Arc of the ARC                  (proposal; growth, authority, and cultural propagation)
   The Intimacy Equation              (snapshot; canonical in the Logos Text)
   The Theory of Change
   The Purpose of the ARC Network
@@ -45,17 +46,18 @@ Tech/            the technical surface
 
 ## Status conventions
 
-- **proposal — direction, not commitment**: the Coordination documents besides the Weekly Weave. They paint the shape of what might be built. The Weekly Weave is the only live technical system.
+- **proposal — direction, not commitment**: The Arc of the ARC and the Tech/Proposed documents. They paint the shape of what might develop. The Weekly Weave is the only live technical system.
 - **snapshot / pointer**: the two Logos Center nodes and the Logos pointer. The public Logos Text at publish.obsidian.md/logos-text always governs; snapshots refresh from it.
 
-## Known deltas (2026-07-29)
+## Known deltas
 
-0. **Beyond the companion list:** the three role documents (The Source, The Member, The Practice Holder), Recording in Service of Trust, The Practice Intelligence Layer, and The Weave at Scale are included at Daniel's direction although the specification's companion list does not name them. Tech/ carries Active (what runs) and Proposed (direction, not commitment); ARC Intimate Intelligence lives in Ground as a way of looking.
+0. **Beyond the companion list:** The Arc of the ARC, the three role documents (The Source, The Member, The Practice Holder), Recording in Service of Trust, The Practice Intelligence Layer, and The Weave at Scale are included at Daniel's direction although the specification's companion list does not name them. Tech/ carries Active (what runs) and Proposed (direction, not commitment); ARC Intimate Intelligence and The Arc of the ARC live in Ground.
 
 1. **Renamed: Safeguarding the Culture** (D44, advisor feedback: say what the framework is for). The old name survives as an alias; the v1.0.1 spec carries the new name.
 2. **Naming: patched.** The specification is at v1.0.1 (2026-07-29): the ARC Entryway replaces the Integration Pathway, the culminating conversation is the entry conversation, and the safeguarding companion is Safeguarding the Culture. Naming only; no design change. The published PDF and the live site still carry v1.0 naming until refreshed.
 3. **The Weekly Weave specification is v1.0** — completed 2026-07-29 against the live build and its operating documentation (service live at arcnetwork.is/weave).
 4. **The live discernment packet** at arcnetwork.is/discernment is the source of truth for what circulates to people in discernment; this corpus does not duplicate it.
+5. **The Arc of the ARC** was added 2026-08-07 as a proposal — direction, not commitment. It describes the network's possible institutional development, cultural propagation, authority distribution, and earned growth without fixing the final forms in advance.
 
 ## Maintenance
 
